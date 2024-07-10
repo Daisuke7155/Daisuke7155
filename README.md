@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Daisuke7155/Daisuke7155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Hella.
+- 🌱 I’m currently learning Python, ML, IoT.
+- 📫 How to reach me: grande.demais.montanha@gmail.com
 
-Here are some ideas to get you started:
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daisuke7155&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daisuke7155&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daisuke7155&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daisuke7155&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daisuke7155&theme=gruvbox&utcOffset=9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Daisuke7155&theme=gruvbox)
